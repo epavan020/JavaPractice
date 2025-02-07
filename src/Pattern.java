@@ -7,6 +7,7 @@ public class Pattern {
                 number++;
             }
             System.out.println();
+            System.out.println("hifdfg");
         }
 
     }
